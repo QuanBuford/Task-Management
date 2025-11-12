@@ -15,15 +15,4 @@ A modern task management app built with **React**, **Django REST Framework**, an
 - **Database:** PostgreSQL
 - **Deployment:** Render (backend) + Vercel (frontend)
 
-## 🧪 Setup
 
-### Backend
-```bash
-cd backend
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
-# Task-Management
-A modern task management app built with **React**, **Django REST Framework**, and **PostgreSQL**.
